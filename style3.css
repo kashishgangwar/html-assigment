@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 30px;
+}
+
+.carousel img {
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.btn-box {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+}
